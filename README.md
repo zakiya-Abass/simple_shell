@@ -154,5 +154,5 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## TEAM
-Zakiya Abass :<zakiya@gmail.com>
+Zakiya Abass :<zakiyaabass@icloud.com>
 Petro Alela :<petro.alela@outlook.com>
